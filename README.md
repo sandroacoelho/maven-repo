@@ -1,7 +1,7 @@
 DBpedia Spotlight Maven Repository
 ==========
 
-How to use it
+How to use it?
 
 Add this in your @pom.xml@ file:
 ```
