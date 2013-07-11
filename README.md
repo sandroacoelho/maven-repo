@@ -1,9 +1,9 @@
 DBpedia Spotlight Maven Repository
 ==========
 
-How to use it?
+#### How to use it?
 
-Add this in your @pom.xml@ file:
+Add this in your pom.xml file:
 ```
         <repository>
             <id>spotlight-releases-repository</id>
@@ -16,9 +16,9 @@ Add this in your @pom.xml@ file:
         </repository>
 ```
 
-To deploy in this Maven repository
+#### To deploy in this Maven repository
 
-Add this in the @pom.xml@ of the artifact to be deployed:
+Add this in the pom.xml of the artifact to be deployed:
 
 ```
 <distributionManagement>
