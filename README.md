@@ -4,6 +4,6 @@ maven-repo
 
 
         <repository>
-            <id>maven-tests-repository</id>
-            <url>https://github.com/sandroacoelho/maven-repo/raw/master/releases</url>
+            <id>spotlight-release-repository</id>
+            <url>https://github.com/dbpedia-spotlight/maven-repo/raw/master/releases</url>
         </repository>
