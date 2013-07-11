@@ -17,4 +17,4 @@ Add this in your pom.xml file:
 ```
 
 
-Thanks to [coffeecoders](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/) to provide a helpful guide.
+Thanks [coffeecoders](http://coffeecoders.de/2011/09/using-github-as-a-personal-maven-repository/) to provide a helpful guide.
